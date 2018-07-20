@@ -1,0 +1,21 @@
+<h1>Cadastrar Evento</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="md-12">
+            <div class="form-group">
+                <label for="data">Data: </label>
+                <input type="text" class="form-control" id="data" ng-model="eventos.data" placeholder="Data do Evento">
+
+                <label for="local">Local: </label>
+                <input type="text" class="form-control" id="local" ng-model="eventos.local" placeholder="Local do Evento">
+
+                <label for="responsavel">Responsavel: </label>
+                <input type="text" class="form-control" id="responsavel" ng-model="eventos.responsavel" placeholder="Responsavel do usuário">
+            
+            </div>
+            <button ng-click="salvarEvento()" class="btn btn-danger">Salvar</button>
+            <a href="#!/listar/" type="button" class="btn btn-warning">Cancelar</a>
+        </div>
+    </div>
+</div>

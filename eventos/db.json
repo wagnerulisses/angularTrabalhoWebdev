@@ -1,0 +1,74 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "login": [
+    {
+      "id": 1,
+      "user": 123,
+      "pass": 123
+    },
+    {
+      "user": "wagner",
+      "pass": "mudar123",
+      "id": 2
+    },
+    {
+      "user": "oijccdsd",
+      "pass": "afsfdas ",
+      "id": 3
+    }
+  ],
+  "eventos": [
+    {
+      "id": 2,
+      "data": "16/07/2018",
+      "local": "chacara EUA",
+      "responsavel": "Wagner Ribeiro"
+    },
+    {
+      "id": 3,
+      "data": "18/07/2018",
+      "local": "chacara China",
+      "responsavel": "Wagner Oliveira"
+    },
+    {
+      "data": "19/07/2018",
+      "local": "brasil",
+      "responsavel": "wagnerrrr",
+      "id": 4
+    },
+    {
+      "data": "30/09/1994",
+      "local": "new york",
+      "responsavel": "wagner 123",
+      "id": 5
+    },
+    {
+      "data": "ewr",
+      "local": "rw",
+      "responsavel": "erww",
+      "id": 6
+    },
+    {
+      "data": "uhgjghj",
+      "local": "hgjhg",
+      "responsavel": "jhgjg",
+      "id": 7
+    }
+  ]
+}

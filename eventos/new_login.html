@@ -1,0 +1,18 @@
+<h1>NEW LOGIN - Gerenciar Eventos</h1>
+
+<div class="container">
+    <div class="row">
+        <div class="md-12">
+            <div class="form-group">
+                <label for="user">Usuario: </label>
+                <input type="text" class="form-control" id="user" ng-model="login.user" placeholder="nome do usuário">
+            
+                <label for="pass">Senha: </label>
+                <input type="password" class="form-control" id="pass" ng-model="login.pass" placeholder="senha do usuário">
+            </div>
+            <button ng-click="salvarLogin()" class="btn btn-danger">Salvar</button>
+           <!-- <button type="button" class="btn btn-danger" ng-click="salvarLogin()">Salvar</button> -->
+            <a href="#!" type="button" class="btn btn-warning">Cancelar</a>
+        </div>
+    </div>
+</div>
