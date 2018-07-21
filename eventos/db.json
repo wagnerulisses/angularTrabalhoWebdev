@@ -31,44 +31,25 @@
       "user": "oijccdsd",
       "pass": "afsfdas ",
       "id": 3
+    },
+    {
+      "user": "teste",
+      "pass": "123",
+      "id": 4
     }
   ],
   "eventos": [
     {
-      "id": 2,
-      "data": "16/07/2018",
-      "local": "chacara EUA",
-      "responsavel": "Wagner Ribeiro"
+      "date": "10/07/2018",
+      "local": "maracai",
+      "responsavel": "wagner",
+      "id": 2
     },
     {
-      "id": 3,
-      "data": "18/07/2018",
-      "local": "chacara China",
-      "responsavel": "Wagner Oliveira"
-    },
-    {
-      "data": "19/07/2018",
-      "local": "brasil",
-      "responsavel": "wagnerrrr",
-      "id": 4
-    },
-    {
-      "data": "30/09/1994",
-      "local": "new york",
-      "responsavel": "wagner 123",
-      "id": 5
-    },
-    {
-      "data": "ewr",
-      "local": "rw",
-      "responsavel": "erww",
-      "id": 6
-    },
-    {
-      "data": "uhgjghj",
-      "local": "hgjhg",
-      "responsavel": "jhgjg",
-      "id": 7
+      "date": "20/09/2018",
+      "local": "Brasil",
+      "responsavel": "Wagner",
+      "id": 3
     }
   ]
 }

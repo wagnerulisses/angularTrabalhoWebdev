@@ -1,4 +1,4 @@
-window.app.controller('eventoController', function($rootScope, APIService){
+window.app.controller('eventoController', function($rootScope, APIService, $routeParams){
     $rootScope.eventos = []
 
     listar()
